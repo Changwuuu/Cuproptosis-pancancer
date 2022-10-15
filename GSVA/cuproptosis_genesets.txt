@@ -1,0 +1,8 @@
+Cuproptosis Positive	Cuproptosis negative
+FDX1	MTF1
+LIAS	GLS
+LIPT1	CDKN2A
+DLD	
+DLAT	
+PDHA1	
+PDHB	
