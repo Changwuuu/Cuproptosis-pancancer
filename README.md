@@ -37,11 +37,11 @@ Partial analysis and visualization are performed by Sangerbox (http://vip.sanger
 
 12.Cell_senescence_and_cell_cycle: This folder contains files used on the correlation analysis between cell senescence/cell cycle markers and cuproptosis activity. It is related to Figure S9.
 
-12.immune_analysis:This folder contains files used on the immune-related analysis of cuproptosis. Including the correlation between cuproptosis activity and ImmuneScore, the correlation between cuproptosis activity and immune regulators, the correlation between cuproptosis activity and immune cell infiltration and the diffrenence of cuproptosis activity among six immune subtypes. This folder is related to Figure 8.
+13.immune_analysis:This folder contains files used on the immune-related analysis of cuproptosis. Including the correlation between cuproptosis activity and ImmuneScore, the correlation between cuproptosis activity and immune regulators, the correlation between cuproptosis activity and immune cell infiltration and the diffrenence of cuproptosis activity among six immune subtypes. This folder is related to Figure 8.
 
-13.drug_sensitivity: This folder contains files used on drug sensitivity analysis of cuproptosis. Including the correlation between cuproptosis activity and IC50 values of 189 drugs in all tumors and the drug sensitivity of individual tumor samples in ACC. This folder is related to Figure 9A.
+14.drug_sensitivity: This folder contains files used on drug sensitivity analysis of cuproptosis. Including the correlation between cuproptosis activity and IC50 values of 189 drugs in all tumors and the drug sensitivity of individual tumor samples in ACC. This folder is related to Figure 9A.
 
-14.immunotherapy: This folder contains files used on the relationship analysis of immunotherapy outcome and cuproptosis activity. This folder is related to Figure 9B-F.
+15.immunotherapy: This folder contains files used on the relationship analysis of immunotherapy outcome and cuproptosis activity. This folder is related to Figure 9B-F.
 
 
 
