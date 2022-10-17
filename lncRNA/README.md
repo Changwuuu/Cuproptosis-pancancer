@@ -1,5 +1,5 @@
 Due to the file size limitation in Github, we can not upload file over 25MB.
-You can get the file "RNASeqV2" and "lncRNA_target" in :
+You can get the file "RNASeqV2" and "lncRNA_target"(a folder including BLCA.txt file et al.) in :
 https://pan.baidu.com/s/1yH7bxmmQTYTb-s5EnCWrKg 
 keyword：p3it
 
