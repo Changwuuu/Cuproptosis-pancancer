@@ -831,7 +831,7 @@ for(i in 1:nrow(indata))
 probeFC<-log(probeFC,base=2);
 result<-probeFC;
 
-UCEC=cbind(rownames(indata),result)
+LUSC=cbind(rownames(indata),result)
 colnames(LUSC)[1]="SYMBOL"
 colnames(LUSC)[2]="LUSC"
 
