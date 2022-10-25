@@ -1027,7 +1027,7 @@ flattenCorrMatrix <- function(cormat, pmat) {
     p = pmat[ut]
   )
 }
-res2<-rcorr(as.matrix(MAPK))
+res2<-rcorr(as.matrix(cu_cuscore))
 flattenCorrMatrix(res2$r, res2$P)
 
 library(corrplot)
