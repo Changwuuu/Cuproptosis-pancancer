@@ -8,7 +8,7 @@ keyword：p3it
 
 # Please cite:
 
-1.Wu, C. et al. Pan-cancer analyses reveal molecular and clinical characteristics of cuproptosis regulators
+1.Wu, C. et al. Pan-cancer analyses reveal molecular and clinical characteristics of cuproptosis regulators. iMeta 2, e68 (2023).
 
 2.Shen, W. et al. Sangerbox: A comprehensive, interaction-friendly clinical bioinformatics analysis platform. iMeta 1, e36 (2022).
 
