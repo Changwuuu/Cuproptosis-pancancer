@@ -8,7 +8,7 @@ keyword：p3it
 
 # Please cite:
 
-1.Changwu Wu, Jun Tan, Xiangyu Wang, Chaoying Qin, Wenyong Long, Yimin Pan, Yuzhe Li, Qing Liu. 2022. Pan‐cancer analyses reveal molecular and clinical characteristics of cuproptosis regulators. iMeta e68. https://doi.org/10.1002/imt2.68
+1.Changwu Wu, Jun Tan, Xiangyu Wang, Chaoying Qin, Wenyong Long, Yimin Pan, Yuzhe Li, Qing Liu. 2023. Pan‐cancer analyses reveal molecular and clinical characteristics of cuproptosis regulators. iMeta 2, e68. https://doi.org/10.1002/imt2.68
 
 2.Shen, W. et al. Sangerbox: A comprehensive, interaction-friendly clinical bioinformatics analysis platform. iMeta 1, e36 (2022).
 
